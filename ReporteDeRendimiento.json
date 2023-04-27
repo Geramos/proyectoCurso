@@ -1,3 +1,4 @@
+[
 {"timestamp": 1682001197, "Fecha": "2023-04-20", "Hora": "09:33:17 up", "Tareas": "250", "U_Root": "198", "U_Apache": "38",  "Uso_CPU": "0.4", "Estados_CPU": "0.8,0.4,0.0", "Prom_Carga": "0.55, 0.65, 0.78", "Mem_Fisica": "2831", "Mem_Virtual": "0,0"},
 {"timestamp": 1682001248, "Fecha": "2023-04-20", "Hora": "09:34:08 up", "Tareas": "250", "U_Root": "198", "U_Apache": "38",  "Uso_CPU": "6.6", "Estados_CPU": "3.3,2.6,0.0", "Prom_Carga": "0.46, 0.61, 0.76", "Mem_Fisica": "2811", "Mem_Virtual": "0,0"},
 {"timestamp": 1682001298, "Fecha": "2023-04-20", "Hora": "09:34:58 up", "Tareas": "253", "U_Root": "198", "U_Apache": "41",  "Uso_CPU": "6.6", "Estados_CPU": "6.1,1.5,0.0", "Prom_Carga": "1.43, 0.88, 0.85", "Mem_Fisica": "2827", "Mem_Virtual": "0,0"},
@@ -797,3 +798,4 @@
 {"timestamp": 1682085162, "Fecha": "2023-04-21", "Hora": "08:52:42 up", "Tareas": "250", "U_Root": "203", "U_Apache": "36",  "U_mysql": "2", "Uso_CPU": "1.5", "Estados_CPU": "4.6,3.4,0.0", "Prom_Carga": "1.33, 1.52, 1.64", "Mem_Fisica": "2791", "Mem_Virtual": "0,0"},
 {"timestamp": 1682085212, "Fecha": "2023-04-21", "Hora": "08:53:32 up", "Tareas": "263", "U_Root": "204", "U_Apache": "49",  "U_mysql": "2", "Uso_CPU": "1.1", "Estados_CPU": "0.8,0.8,0.0", "Prom_Carga": "2.25, 1.72, 1.70", "Mem_Fisica": "2914", "Mem_Virtual": "0,0"},
 {"timestamp": 1682085263, "Fecha": "2023-04-21", "Hora": "08:54:23 up", "Tareas": "250", "U_Root": "204", "U_Apache": "36",  "U_mysql": "2", "Uso_CPU": "13.5", "Estados_CPU": "9.6,3.8,0.0", "Prom_Carga": "1.35, 1.55, 1.64", "Mem_Fisica": "2856", "Mem_Virtual": "0,0"}
+]
