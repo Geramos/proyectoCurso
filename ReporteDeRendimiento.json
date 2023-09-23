@@ -1332,5 +1332,32 @@
 ,{"timestamp": 1695510017, "Fecha": "2023-09-23", "Hora": "18:00:17 up", "Tareas": "358", "U_Root": "204", "U_Apache": "145",  "U_mysql": "2", "Uso_CPU": "7.4",  "Mem_Fisica": "5224"}
 ,{"timestamp": 1695510023, "Fecha": "2023-09-23", "Hora": "18:00:23 up", "Tareas": "352", "U_Root": "204", "U_Apache": "140",  "U_mysql": "2", "Uso_CPU": "7.2",  "Mem_Fisica": "5193"}
 ,{"timestamp": 1695510028, "Fecha": "2023-09-23", "Hora": "18:00:28 up", "Tareas": "347", "U_Root": "204", "U_Apache": "135",  "U_mysql": "2", "Uso_CPU": "7.5",  "Mem_Fisica": "5158"}
+,{"timestamp": 1695510034, "Fecha": "2023-09-23", "Hora": "18:00:34 up", "Tareas": "341", "U_Root": "204", "U_Apache": "129",  "U_mysql": "2", "Uso_CPU": "7.2",  "Mem_Fisica": "5118"}
+,{"timestamp": 1695510039, "Fecha": "2023-09-23", "Hora": "18:00:39 up", "Tareas": "336", "U_Root": "204", "U_Apache": "124",  "U_mysql": "2", "Uso_CPU": "6.8",  "Mem_Fisica": "5087"}
+,{"timestamp": 1695510045, "Fecha": "2023-09-23", "Hora": "18:00:45 up", "Tareas": "331", "U_Root": "204", "U_Apache": "118",  "U_mysql": "2", "Uso_CPU": "7.5",  "Mem_Fisica": "5055"}
+,{"timestamp": 1695510050, "Fecha": "2023-09-23", "Hora": "18:00:50 up", "Tareas": "325", "U_Root": "204", "U_Apache": "113",  "U_mysql": "2", "Uso_CPU": "7.2",  "Mem_Fisica": "5024"}
+,{"timestamp": 1695510055, "Fecha": "2023-09-23", "Hora": "18:00:55 up", "Tareas": "320", "U_Root": "204", "U_Apache": "107",  "U_mysql": "2", "Uso_CPU": "7.6",  "Mem_Fisica": "4992"}
+,{"timestamp": 1695510061, "Fecha": "2023-09-23", "Hora": "18:01:01 up", "Tareas": "314", "U_Root": "204", "U_Apache": "102",  "U_mysql": "2", "Uso_CPU": "7.5",  "Mem_Fisica": "4957"}
+,{"timestamp": 1695510066, "Fecha": "2023-09-23", "Hora": "18:01:06 up", "Tareas": "313", "U_Root": "208", "U_Apache": "97",  "U_mysql": "2", "Uso_CPU": "6.9",  "Mem_Fisica": "4943"}
+,{"timestamp": 1695510072, "Fecha": "2023-09-23", "Hora": "18:01:12 up", "Tareas": "307", "U_Root": "208", "U_Apache": "91",  "U_mysql": "2", "Uso_CPU": "7.9",  "Mem_Fisica": "4903"}
+,{"timestamp": 1695510077, "Fecha": "2023-09-23", "Hora": "18:01:17 up", "Tareas": "302", "U_Root": "208", "U_Apache": "86",  "U_mysql": "2", "Uso_CPU": "6.9",  "Mem_Fisica": "4872"}
+,{"timestamp": 1695510083, "Fecha": "2023-09-23", "Hora": "18:01:23 up", "Tareas": "296", "U_Root": "208", "U_Apache": "80",  "U_mysql": "2", "Uso_CPU": "7.3",  "Mem_Fisica": "4830"}
+,{"timestamp": 1695510088, "Fecha": "2023-09-23", "Hora": "18:01:28 up", "Tareas": "291", "U_Root": "208", "U_Apache": "75",  "U_mysql": "2", "Uso_CPU": "7.3",  "Mem_Fisica": "4801"}
+,{"timestamp": 1695510093, "Fecha": "2023-09-23", "Hora": "18:01:33 up", "Tareas": "286", "U_Root": "208", "U_Apache": "69",  "U_mysql": "2", "Uso_CPU": "7.7",  "Mem_Fisica": "4764"}
+,{"timestamp": 1695510099, "Fecha": "2023-09-23", "Hora": "18:01:39 up", "Tareas": "280", "U_Root": "208", "U_Apache": "64",  "U_mysql": "2", "Uso_CPU": "7.6",  "Mem_Fisica": "4736"}
+,{"timestamp": 1695510104, "Fecha": "2023-09-23", "Hora": "18:01:44 up", "Tareas": "275", "U_Root": "208", "U_Apache": "59",  "U_mysql": "2", "Uso_CPU": "6.9",  "Mem_Fisica": "4701"}
+,{"timestamp": 1695510110, "Fecha": "2023-09-23", "Hora": "18:01:50 up", "Tareas": "269", "U_Root": "208", "U_Apache": "53",  "U_mysql": "2", "Uso_CPU": "7.6",  "Mem_Fisica": "4668"}
+,{"timestamp": 1695510115, "Fecha": "2023-09-23", "Hora": "18:01:55 up", "Tareas": "264", "U_Root": "208", "U_Apache": "48",  "U_mysql": "2", "Uso_CPU": "6.9",  "Mem_Fisica": "4636"}
+,{"timestamp": 1695510121, "Fecha": "2023-09-23", "Hora": "18:02:01 up", "Tareas": "260", "U_Root": "209", "U_Apache": "44",  "U_mysql": "2", "Uso_CPU": "13.5",  "Mem_Fisica": "4601"}
+,{"timestamp": 1695510126, "Fecha": "2023-09-23", "Hora": "18:02:06 up", "Tareas": "253", "U_Root": "208", "U_Apache": "37",  "U_mysql": "2", "Uso_CPU": "6.9",  "Mem_Fisica": "4561"}
+,{"timestamp": 1695510132, "Fecha": "2023-09-23", "Hora": "18:02:12 up", "Tareas": "248", "U_Root": "208", "U_Apache": "32",  "U_mysql": "2", "Uso_CPU": "6.9",  "Mem_Fisica": "4526"}
+,{"timestamp": 1695510137, "Fecha": "2023-09-23", "Hora": "18:02:17 up", "Tareas": "248", "U_Root": "208", "U_Apache": "32",  "U_mysql": "2", "Uso_CPU": "6.6",  "Mem_Fisica": "4527"}
+,{"timestamp": 1695510142, "Fecha": "2023-09-23", "Hora": "18:02:22 up", "Tareas": "248", "U_Root": "208", "U_Apache": "32",  "U_mysql": "2", "Uso_CPU": "7.3",  "Mem_Fisica": "4526"}
+,{"timestamp": 1695510148, "Fecha": "2023-09-23", "Hora": "18:02:28 up", "Tareas": "248", "U_Root": "208", "U_Apache": "32",  "U_mysql": "2", "Uso_CPU": "6.6",  "Mem_Fisica": "4525"}
+,{"timestamp": 1695510153, "Fecha": "2023-09-23", "Hora": "18:02:33 up", "Tareas": "248", "U_Root": "208", "U_Apache": "32",  "U_mysql": "2", "Uso_CPU": "7.3",  "Mem_Fisica": "4524"}
+,{"timestamp": 1695510159, "Fecha": "2023-09-23", "Hora": "18:02:39 up", "Tareas": "248", "U_Root": "208", "U_Apache": "32",  "U_mysql": "2", "Uso_CPU": "7.3",  "Mem_Fisica": "4528"}
+,{"timestamp": 1695510164, "Fecha": "2023-09-23", "Hora": "18:02:44 up", "Tareas": "248", "U_Root": "208", "U_Apache": "32",  "U_mysql": "2", "Uso_CPU": "7",  "Mem_Fisica": "4539"}
+,{"timestamp": 1695510170, "Fecha": "2023-09-23", "Hora": "18:02:49 up", "Tareas": "248", "U_Root": "208", "U_Apache": "32",  "U_mysql": "2", "Uso_CPU": "7",  "Mem_Fisica": "4537"}
+,{"timestamp": 1695510175, "Fecha": "2023-09-23", "Hora": "18:02:55 up", "Tareas": "248", "U_Root": "208", "U_Apache": "32",  "U_mysql": "2", "Uso_CPU": "7.3",  "Mem_Fisica": "4537"}
 ]
 }
